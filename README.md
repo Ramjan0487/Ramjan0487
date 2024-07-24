@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Database, Data Integration
 - 💬 Ask me about Web Analytics and Quality Assurance(Manual and Automation Testing)
 - 📫 How to reach me: E-mail:therockitsolutions20@gmail.com
-- 
-          | What we Do|
+
+          ⚡What we Do
 - 😄 Web,Mobile, App Testing using Manual Testing
 - Test planning
 - Unit testing
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Defect logging
 - Report the resultsRequirement analysis
   
-                 | What we Do|
+                ⚡ What we Do
 - 😄 Web,Mobile, App Testing using Automation Testing
 - Test automation
 - Test automation environment
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - System integration
 - Review and feedback
 
-        | Other Tasks |
+           ⚡ Other Tasks 
  - Risk analysis
  - Failure analysis
  - Test Plan Documentation
