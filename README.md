@@ -1,11 +1,11 @@
-<h1 align="center">Hello, This is the The Rock The Solutions LTD 👋</p></h1>
+<h1 align="center">Hello, This is the The Rock The Solutions LTD</p></h1>
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">The Rock IT Solutions LTD Stats</h2>
  <h3 align="center">Unleashing the Digital Future Technology Today!</h3>
 </p>
-<p align="center"><a href="https://github.com/Ramjan0487/github-readme-stats/actions">
-    <img alt="Tests Passing" src="https://github.com/Ramjan0487/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/Ramjan0487/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/Ramjan0487/github-readme-stats/workflows/Test/badge.svg" />
     </a>
     <a href="https://github.com/Ramjan0487/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Ramjan0487/github-readme-stats" />
@@ -31,7 +31,7 @@
 - 💬 Ask me about Web Analytics and Quality Assurance(Manual and Automation Testing)
 - 📫 How to reach me: E-mail:therockitsolutions20@gmail.com
 
-       <h3 align="center">⚡What we Do</h3></center>
+  <h3 align="center">⚡What we Do</h3></center>
 - Web,Mobile, App Testing using Manual Testing
 - Test planning
 - Unit testing
@@ -71,7 +71,7 @@
  - Test Plan Documentation
  - Test Cases Documentation
   
-  <h3 align="center"> Certifications:</h3></center>
+  <h3 align="center"> Certifications:👋</h3></center>
 - Google Analytics Certification
 - Katalon Practitioner Certification
 - Katalon Professional Certification
