@@ -22,7 +22,8 @@
     <a href="https://securityscorecards.dev/viewer/?uri=github.com/Ramjan0487/github-readme-stats">
       <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/Ramjan0487/github-readme-stats/badge" /></a>
  
-<h3 align="center">⚡Here are some ideas to get you started:</h3>
+<h3 align="center">⚡Here are some ideas to get you started:</h3></center>
+
 - 🔭 I’m currently working on Google Analytics Data Certification
 - 🌱 I’m currently learning IBM and Google Data Analytics Certification
 - 👯 I’m looking to collaborate on all IT Related Customers
