@@ -4,9 +4,8 @@
  <h2 align="center">The Rock IT Solutions LTD Stats</h2>
  <h3 align="center">Unleashing the Digital Future Technology Today!</h3>
 </p>
-<p align="center">
-    <a href="https://github.com/Ramjan0487/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/Ramjan0487/github-readme-stats/workflows/Test/badge.svg" />
+<p align="center"><a href="https://github.com/Ramjan0487/github-readme-stats/actions">
+    <img alt="Tests Passing" src="https://github.com/Ramjan0487/github-readme-stats/workflows/Test/badge.svg" />
     </a>
     <a href="https://github.com/Ramjan0487/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Ramjan0487/github-readme-stats" />
@@ -22,7 +21,8 @@
     </a>
     <a href="https://securityscorecards.dev/viewer/?uri=github.com/Ramjan0487/github-readme-stats">
       <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/Ramjan0487/github-readme-stats/badge" /></a>
-<h3 align="center">Here are some ideas to get you started:</h3>
+ 
+<h3 align="center">⚡Here are some ideas to get you started:</h3>
 - 🔭 I’m currently working on Google Analytics Data Certification
 - 🌱 I’m currently learning IBM and Google Data Analytics Certification
 - 👯 I’m looking to collaborate on all IT Related Customers
@@ -44,7 +44,7 @@
 - Report the resultsRequirement analysis
   
   <h3 align="center">⚡What we Do</h3></center>
-- 😄 Web,Mobile, App Testing using Automation Testing
+- Web,Mobile, App Testing using Automation Testing
 - Test automation
 - Test automation environment
 - Unit testing
@@ -70,7 +70,7 @@
  - Test Plan Documentation
  - Test Cases Documentation
   
-  <h3 align="center">Certifications:</h3></center>
+  <h3 align="center"> Certifications:</h3></center>
 - Google Analytics Certification
 - Katalon Practitioner Certification
 - Katalon Professional Certification
