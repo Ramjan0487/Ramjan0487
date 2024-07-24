@@ -32,7 +32,7 @@
 - 💬 Ask me about Web Analytics and Quality Assurance(Manual and Automation Testing)
 - 📫 How to reach me: E-mail:therockitsolutions20@gmail.com
 
-  <h3 align="center">⚡What we Do</h3></center>
+  <h3 align="center">⚡What we Do:</h3></center>
 - Web,Mobile, App Testing using Manual Testing
 - Test planning
 - Unit testing
@@ -44,7 +44,7 @@
 - Black box testing
 - Defect logging
   
-  <h3 align="center">⚡What we Do</h3></center>
+  <h3 align="center">⚡What we Do:</h3></center>
 - Web,Mobile, App Testing using Automation Testing
 - Test automation
 - Test automation environment
@@ -64,7 +64,7 @@
 - System integration
 - Review and feedback
 
-  <h3 align="center">⚡Other Tasks </h3></center>
+  <h3 align="center">⚡Other Tasks:</h3></center>
           
  - Risk analysis
  - Failure analysis
@@ -72,7 +72,7 @@
  - Test Cases Documentation
  - Report the resultsRequirement analysis
   
-  <h3 align="center"> Certifications:👋</h3></center>
+  <h3 align="center">👋Certifications:</h3></center>
 
  - Google Analytics Certification
  - Katalon Practitioner Certification
