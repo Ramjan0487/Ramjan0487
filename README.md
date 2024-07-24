@@ -5,7 +5,7 @@
 </p>
   <p align="center">
     <a href="https://github.com/Ramjan0487/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/Ramjan0487/github-readme-stats/workflows/Test/badge.svg" />
+      <img alt="Tests Passing" src="https://github.com/Ramjan0487/github-readme-stats/actions/badge.svg" />
     </a>
     <a href="https://github.com/Ramjan0487/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Ramjan0487/github-readme-stats" />
