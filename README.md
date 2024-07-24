@@ -21,9 +21,8 @@
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Ramjan0487/github-readme-stats?color=0088ff" />
     </a>
     <a href="https://securityscorecards.dev/viewer/?uri=github.com/Ramjan0487/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/Ramjan0487/github-readme-stats/badge" />
-    </a>
-Here are some ideas to get you started:
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/Ramjan0487/github-readme-stats/badge" /></a>
+<h3 align="center">Here are some ideas to get you started:</h3>
 - 🔭 I’m currently working on Google Analytics Data Certification
 - 🌱 I’m currently learning IBM and Google Data Analytics Certification
 - 👯 I’m looking to collaborate on all IT Related Customers
@@ -31,8 +30,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Web Analytics and Quality Assurance(Manual and Automation Testing)
 - 📫 How to reach me: E-mail:therockitsolutions20@gmail.com
 
-          ⚡What we Do
-- 😄 Web,Mobile, App Testing using Manual Testing
+       <h3 align="center">⚡What we Do</h3></center>
+- Web,Mobile, App Testing using Manual Testing
 - Test planning
 - Unit testing
 - Compatibility testing
@@ -44,7 +43,7 @@ Here are some ideas to get you started:
 - Defect logging
 - Report the resultsRequirement analysis
   
-                ⚡ What we Do
+  <h3 align="center">⚡What we Do</h3></center>
 - 😄 Web,Mobile, App Testing using Automation Testing
 - Test automation
 - Test automation environment
@@ -64,13 +63,14 @@ Here are some ideas to get you started:
 - System integration
 - Review and feedback
 
-           ⚡ Other Tasks 
+  <h3 align="center">⚡Other Tasks </h3></center>
+          
  - Risk analysis
  - Failure analysis
  - Test Plan Documentation
  - Test Cases Documentation
-
-         ⚡ Certifications:
+  
+  <h3 align="center">Certifications:</h3></center>
 - Google Analytics Certification
 - Katalon Practitioner Certification
 - Katalon Professional Certification
