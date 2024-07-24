@@ -1,8 +1,7 @@
 <h1 align="center">Hello, This is the The Rock The Solutions LTD</p></h1>
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">The Rock IT Solutions LTD Stats</h2>
- <h3 align="center">Unleashing the Digital Future Technology Today!</h3>
+ <h2 align="center">Unleashing the Digital Future Technology Today!</h2>
 </p>
   <p align="center">
     <a href="https://github.com/Ramjan0487/github-readme-stats/actions">
@@ -21,7 +20,9 @@
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Ramjan0487/github-readme-stats?color=0088ff" />
     </a>
     <a href="https://securityscorecards.dev/viewer/?uri=github.com/Ramjan0487/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/Ramjan0487/github-readme-stats/badge" /></a></p>
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/Ramjan0487/github-readme-stats/badge" />
+    </a>
+  </p>
  
 <h3 align="center">⚡Here are some ideas to get you started:</h3></center>
 
