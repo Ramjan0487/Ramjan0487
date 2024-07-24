@@ -4,7 +4,10 @@
  <h2 align="center">The Rock IT Solutions LTD Stats</h2>
  <h3 align="center">Unleashing the Digital Future Technology Today!</h3>
 </p>
-    <a href="https://github.com/Ramjan0487/github-readme-stats/actions"><img alt="Tests Passing" src="https://github.com/Ramjan0487/github-readme-stats/workflows/Test/badge.svg" /></a>
+  <p align="center">
+    <a href="https://github.com/Ramjan0487/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/Ramjan0487/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
     <a href="https://github.com/Ramjan0487/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Ramjan0487/github-readme-stats" />
     </a>
@@ -18,7 +21,7 @@
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Ramjan0487/github-readme-stats?color=0088ff" />
     </a>
     <a href="https://securityscorecards.dev/viewer/?uri=github.com/Ramjan0487/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/Ramjan0487/github-readme-stats/badge" /></a>
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/Ramjan0487/github-readme-stats/badge" /></a></p>
  
 <h3 align="center">⚡Here are some ideas to get you started:</h3></center>
 
