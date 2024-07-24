@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Database, Data Integration
 - 💬 Ask me about Web Analytics and Quality Assurance(Manual and Automation Testing)
 - 📫 How to reach me: E-mail:therockitsolutions20@gmail.com
-                         | What we Do|
+- 
+          | What we Do|
 - 😄 Web,Mobile, App Testing using Manual Testing
 - Test planning
 - Unit testing
@@ -19,7 +20,8 @@ Here are some ideas to get you started:
 - Black box testing
 - Defect logging
 - Report the resultsRequirement analysis
-                         | What we Do|
+  
+                 | What we Do|
 - 😄 Web,Mobile, App Testing using Automation Testing
 - Test automation
 - Test automation environment
@@ -45,7 +47,7 @@ Here are some ideas to get you started:
  - Test Plan Documentation
  - Test Cases Documentation
 
-- ⚡ Certifications:
+         ⚡ Certifications:
 - Google Analytics Certification
 - Katalon Practitioner Certification
 - Katalon Professional Certification
