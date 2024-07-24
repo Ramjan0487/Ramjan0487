@@ -23,8 +23,8 @@
       <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/Ramjan0487/github-readme-stats/badge" />
     </a>
   </p>
-
- https://img.shields.io/github/followers/github
+ <a href="https://github.com/Ramjan0487/github-readme-stats/issues">
+ <img alt="Followers" src="https://img.shields.io/github/followers/github/></a>
 https://img.shields.io/twitter/follow/twitter
 https://img.shields.io/chocolatey/dt/chocolatey
 <img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fundootesters" height="30" width="40" style="max-width: 100%;">
