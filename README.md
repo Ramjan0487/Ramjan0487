@@ -1,6 +1,6 @@
 <h1 align="center">Hello, This is the The Rock The Solutions LTD</p></h1>
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/Ramjan0487/image/upload/v1594908242/logo_ccswme.svg" align="center"/>
+ <img width="100px" src="https://res.cloudinary.com/Ramjan0487/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="The Rock IT Solutions LTD" />
  <h2 align="center">Unleashing the Digital Future Technology Today!</h2>
 </p>
   <p align="center">
