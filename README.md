@@ -4,8 +4,8 @@
  <h2 align="center">Unleashing the Digital Future Technology Today!</h2>
 </p>
   <p align="center">
-    <a href="https://github.com/Ramjan0487/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/Ramjan0487/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
     <a href="https://github.com/Ramjan0487/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Ramjan0487/github-readme-stats" />
