@@ -23,7 +23,12 @@
       <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/Ramjan0487/github-readme-stats/badge" />
     </a>
   </p>
- 
+
+ https://img.shields.io/github/followers/github
+https://img.shields.io/twitter/follow/twitter
+https://img.shields.io/chocolatey/dt/chocolatey
+<img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fundootesters" height="30" width="40" style="max-width: 100%;">
+
 <h3 align="center">⚡Here are some ideas to get you started:</h3></center>
 
 - 🔭 I’m currently working on Google Analytics Data Certification
