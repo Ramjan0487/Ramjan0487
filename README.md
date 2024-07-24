@@ -4,9 +4,7 @@
  <h2 align="center">The Rock IT Solutions LTD Stats</h2>
  <h3 align="center">Unleashing the Digital Future Technology Today!</h3>
 </p>
-    <a href="https://github.com/Ramjan0487/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/Ramjan0487/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
+    <a href="https://github.com/Ramjan0487/github-readme-stats/actions"><img alt="Tests Passing" src="https://github.com/Ramjan0487/github-readme-stats/workflows/Test/badge.svg" /></a>
     <a href="https://github.com/Ramjan0487/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Ramjan0487/github-readme-stats" />
     </a>
@@ -42,7 +40,6 @@
 - Accessibility testing
 - Black box testing
 - Defect logging
-- Report the resultsRequirement analysis
   
   <h3 align="center">⚡What we Do</h3></center>
 - Web,Mobile, App Testing using Automation Testing
@@ -70,11 +67,13 @@
  - Failure analysis
  - Test Plan Documentation
  - Test Cases Documentation
+ - Report the resultsRequirement analysis
   
   <h3 align="center"> Certifications:👋</h3></center>
-- Google Analytics Certification
-- Katalon Practitioner Certification
-- Katalon Professional Certification
-- Katalon Expert Certification
-- Power BI Certification
+
+ - Google Analytics Certification
+ - Katalon Practitioner Certification
+ - Katalon Professional Certification
+ - Katalon Expert Certification
+ - Power BI Certification
 
