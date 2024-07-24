@@ -28,8 +28,8 @@
 ![NPM Downloads](https://img.shields.io/chocolatey/dt/chocolatey)
 ![NPM Downloads](https://img.shields.io/conda/:variant/:channel/conda)
 ![NPM Downloads](https://img.shields.io/npm/:interval/react)
- <p align="center">
-<img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fundootesters" height="30" width="40" style="max-width: 100%;"></p>
+ <br><p align="center">
+<img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fundootesters" height="30" width="40" style="max-width: 100%;"></p></br>
   <p align="center">
 <img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishantgohel" height="30" width="40" style="max-width: 100%;"></p>
   <p align="center">
