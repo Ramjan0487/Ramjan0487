@@ -1,6 +1,5 @@
 <h1 align="center">Hello, This is the The Rock The Solutions LTD</p></h1>
 <p align="center">
- <img width ="100px" src="https://github.com/Ramjan0487/PowerBI/blob/main/The%20ROCK%20IT%20%20SOLUTIONS%20Logo.png align="center" alt="The Rock IT Solutions LTD" />
  <img src="https://camo.githubusercontent.com/09bfe4437e8b6b42ab44be2a46df368a91ce0128d2d76e237637fdafee489a65/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d66756e646f6f746573746572732673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="The Rock IT Solutions LTD" data-canonical-src="https://github-readme-stats.vercel.app/api?username=therockitsolutions&amp;show_icons=true&amp;locale=en" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/f3064ddb6ed730c15096e2281ba56f62fcd1c01edd968fbd988d0c1aba9b34b8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d646f6e75742d766572746963616c" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&amp;layout=donut-vertical" style="max-width: 100%;">
  <h2 align="center">Unleashing the Digital Future Technology Today!</h2>
 </p>
