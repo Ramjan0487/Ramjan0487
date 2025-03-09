@@ -24,7 +24,7 @@
     </a>
   </p>
  <p align="center">
-<img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg/Rickiesteven" alt="fundootesters" height="30" width="40" style="max-width: 100%;">
+<img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fundootesters" height="30" width="40" style="max-width: 100%;">
 <img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishantgohel" height="30" width="40" style="max-width: 100%;">
 <img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fundootesters" height="30" width="40" style="max-width: 100%;">
 <img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fundootesters" height="30" width="40" style="max-width: 100%;">
