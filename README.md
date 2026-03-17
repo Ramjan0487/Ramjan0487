@@ -33,7 +33,7 @@
  
 ### 🖥️ I Code In  
 <p>
-  <img height="50" src="https://seeklogo.com/vector-logo/483546/katalon"/>
+  <img height="50" src="https://iconscout.com/free-icon/free-google-analytics-logo-icon_1721678"/>
   <img height="50" src="https://images.seeklogo.com/logo-png/32/1/google-analytics-logo-png_seeklogo-325027.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
@@ -43,7 +43,7 @@
   <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img height="50" src="https://iconscout.com/free-icon/free-mongodb-icon_1175138"/>
 </p>
 
 
