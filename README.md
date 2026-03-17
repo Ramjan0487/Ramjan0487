@@ -30,6 +30,23 @@
 <img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fundootesters" height="30" width="40" style="max-width: 100%;">
  </p>
 
+ 
+### 🖥️ I Code In  
+<p>
+  <img height="50" src="https://seeklogo.com/vector-logo/483546/katalon"/>
+  <img height="50" src="https://images.seeklogo.com/logo-png/32/1/google-analytics-logo-png_seeklogo-325027.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+</p>
+
+
 <h3 align="center">⚡Here are some ideas to get you started:</h3></center>
 
 - 🔭 I’m currently working on Google Analytics Data Certification
