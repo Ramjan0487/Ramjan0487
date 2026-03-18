@@ -1,7 +1,4 @@
 ## Hi there 👋 I'm Ntambara Rukaka Steven   
-
-<h1 align="center">Hello, This is The Rock IT Solutions LTD</p></h1>
-<p align="center">
  <h2 align="center">Unleashing the Digital Future Technology Today!</h2>
 </p>
   <p align="center">
@@ -23,7 +20,7 @@
   
 <img align="right" width="370" height="290" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpqbzVubXQxemMwcWpoaTVpZWdzdXNhNm03d3VqZ2E3bzhleGZtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<h3 align="center">⚡Here are some ideas to get you started:</h3></center>
+##⚡Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Google Analytics Data Certification
 - 🌱 I’m currently learning IBM and Google Data Analytics Certification
@@ -32,22 +29,22 @@
 - 💬 Ask me about Web Analytics and Quality Assurance(Manual and Automation Testing)
 - 📫 How to reach me: E-mail:therockitsolutions20@gmail.com
 - 🌱 I’m currently working on AI integrations, Online IDE, and LMS development
+
+   ### 🚀 Social Presence
   
   <p align="left">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Subscribers">
     &nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/youtube/channel/views/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Views">
   </p>
-  
-- ⚡ Fun fact: 
-<h3 align="center">### 🚀 Social Presence  </center>
+   
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ntambara-rukaka-steven)  
 - [![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ntambararukaka)  
 - [![Twitter](https://img.shields.io/badge/X%2FTwitter-white?logo=x&style=flat&logoColor=white)](https://x.com/Rickiesteven)  
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/stevio052002)  
 
 
-<center>### 🖥️ I Code In</center>
+### 🖥️ I Code In
 <p>
   <img height="50" src="https://img.icons8.com/color/48/000000/python.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
@@ -62,7 +59,16 @@
   <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 </p>
 
-<center>### ⚙️ Tools I Use </center>
+###  💻 Workspace Setup:
+
+- **Operating System**: Windows 11  
+  ![OS](https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows&logoColor=white)
+- **Processor**: AMD Ryzen 5 5600H  
+  ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+- **Graphics**: AMD Radeon RX 6500M  
+  ![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6500M-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+
+ ### ⚙️ Tools I Use
 <p>
   <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
@@ -71,18 +77,7 @@
   <img height="50" src="https://img.icons8.com/color/48/000000/firebase.png"/>
 </p>
 
-<center>###  💻 Workspace Setup:</center>
-
-- **Operating System**: Windows 11  
-  ![OS](https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows&logoColor=white)
-- **Operating System**: Windows 10
-  ![OS](https://img.shields.io/badge/OS-Windows_10-blue?style=for-the-badge&logo=windows&logoColor=white)
-- **Processor**: AMD Ryzen 5 5600H  
-  ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-- **Graphics**: AMD Radeon RX 6500M  
-  ![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6500M-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-  
-  <center>###⚡What we Do:</center>
+  ###⚡What we Do:
 - Web,Mobile, App Testing using Manual Testing
 - Test planning
 - Unit testing
@@ -94,7 +89,7 @@
 - Black box testing
 - Defect logging
   
-  <center>⚡What we Do:</center>
+##⚡What we Do:
 Tools Like Katalon Testing Tools
 
 1.Katalon Studio: This is the core testing tool, an all-in-one low-code automation platform for web, API, desktop, and mobile applications. 
@@ -126,7 +121,7 @@ Tools Like Katalon Testing Tools
 - System integration
 - Review and feedback
 
-  <center>###⚡Other Tasks:</center>
+  ###⚡Other Tasks:
           
  - Risk analysis
  - Failure analysis
@@ -134,7 +129,7 @@ Tools Like Katalon Testing Tools
  - Test Cases Documentation
  - Report the results Requirement analysis
   
-  <center>### 👋Certifications:</center>
+  ### 👋Certifications:
 
  - Google Analytics Certification
  - Katalon Practitioner Certification
@@ -142,7 +137,6 @@ Tools Like Katalon Testing Tools
  - Katalon Expert Certification
  - Power BI Certification
   
-<center>### 📈 My GitHub Activity </center>
-[![Ntambara Rukaka Steven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramjan0487&bg_color=150a10&color=ffffff&line=f5f5f5&point=ffffff&area=true&hide_border=true)](https://github.com/Ramjan0487/github-readme-activity-graph)
+### 📈 My GitHub Activity
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kumaresankp&bg_color=150a10&color=ffffff&line=f5f5f5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ntambara Rukaka Steven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramjan0487&bg_color=150a10&color=ffffff&line=f5f5f5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
