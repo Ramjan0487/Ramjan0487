@@ -22,7 +22,7 @@
     </a>
   </p>
 
-<img align="right" width="370" height="290" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpqbzVubXQxemMwcWpoaTVpZWdzdXNhNm03d3VqZ2E3bzhleGZtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif ">
+<img align="right" width="370" height="290" src="C:\Users\PC\Downloads\Coding.gif">
 <!-- - 🔭 
 <h3 align="center">⚡Here are some ideas to get you started:</h3></center>
 
