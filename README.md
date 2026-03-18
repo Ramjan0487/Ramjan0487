@@ -34,18 +34,13 @@
 - 🌱 I’m currently working on AI integrations, Online IDE, and LMS development
   
   <p align="left">
-    <img src="https://img.shields.io/youtube.com/@ntambararukakasteven775?style=for-the-badge" alt="YouTube Subscribers">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Subscribers">
     &nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/youtube.com/@ntambararukakasteven775?style=for-the-badge" alt="YouTube Views">
-  </p> 
-  <p align="left">
-    <img src="https://img.shields.io/youtube.com/@ntambararukakasteven775?style=for-the-badge" alt="YouTube Subscribers">
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/youtube.com/@ntambararukakasteven775?style=for-the-badge" alt="YouTube Views">
+    <img src="https://img.shields.io/youtube/channel/views/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Views">
   </p>
   
 - ⚡ Fun fact: 
-### 🚀 Social Presence  
+<h3 align="center">### 🚀 Social Presence  </center>
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ntambara-rukaka-steven)  
 - [![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ntambararukaka)  
 - [![Twitter](https://img.shields.io/badge/X%2FTwitter-white?logo=x&style=flat&logoColor=white)](https://x.com/Rickiesteven)  
@@ -146,7 +141,8 @@ Tools Like Katalon Testing Tools
  - Katalon Professional Certification
  - Katalon Expert Certification
  - Power BI Certification
-
   
 <center>### 📈 My GitHub Activity </center>
 [![Ntambara Rukaka Steven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramjan0487&bg_color=150a10&color=ffffff&line=f5f5f5&point=ffffff&area=true&hide_border=true)](https://github.com/Ramjan0487/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kumaresankp&bg_color=150a10&color=ffffff&line=f5f5f5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
