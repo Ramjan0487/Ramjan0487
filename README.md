@@ -126,9 +126,10 @@ Tools Like Katalon Testing Tools
 
 ###  💻 Workspace Setup:
 
+- **Operating System**: Windows 10 
+  ![OS](https://img.shields.io/badge/OS-Windows_10-blue?style=for-the-badge&logo=windows&logoColor=white)
 - **Operating System**: Windows 11  
-  ![OS](https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows&logoColor=white)\
-  https://icons8.com/icon/17842/linux.png)
+  ![OS](https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows&logoColor=white)
 - **Operating System**: Mac OS  
   ![MacOS](https://img.icons8.com/?size=96&id=vCiwbOh7Uo7G&format=png)
 - **Processor**: AMD Ryzen 5 5600H  
@@ -143,12 +144,5 @@ Tools Like Katalon Testing Tools
   <img height="50" src="https://img.icons8.com/color/50/000000/git.png"/>
   <img height="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/firebase.png"/>
- <img height="50" src="https://icons8.com/icon/1LAX3PYMg2iA/android-studio--v2.png"/>
- <img height="50" src="https://icons8.com/icon/fy60fytQrozs/analytics.png"/>
- <img height="50" src="https://icons8.com/icon/aR9CXyMagKIS/numpy.png"/>
-<img height="50" src="https://icons8.com/icon/TkX1totjFmAD/matplotlib.png"/>
-<img height="50" src="https://icons8.com/icon/45348/selenium-test-automation.png"/>
-<img height="50" src="https://icons8.com/icon/2G0DTGOzcTIP/external-agile-agile-flaticons-flat-flat-icons.png"/>
-<img height="50" src="https://camo.githubusercontent.com/ed63305911b53aac0b3a75ea18746a432a905e50b21d89a8192970b5c0fc2fb2/68747470733a2f2f69636f6e73382e636f6d2f69636f6e2f314c41583350594d673269412f616e64726f69642d73747564696f2d2d76322e706e67.Png"/>
  
 </p>
