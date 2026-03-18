@@ -2,7 +2,6 @@
 
 <img align="right" width="370" height="290" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpqbzVubXQxemMwcWpoaTVpZWdzdXNhNm03d3VqZ2E3bzhleGZtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<!-- - 🔭 
 <h3 align="center">⚡Here are some ideas to get you started:</h3></center>
 
 - 🔭 I’m currently working on Google Analytics Data Certification
@@ -11,14 +10,20 @@
 - 🤔 I’m looking for help with Database, Data Integration
 - 💬 Ask me about Web Analytics and Quality Assurance(Manual and Automation Testing)
 - 📫 How to reach me: E-mail:therockitsolutions20@gmail.com
-- 🌱 I’m currently working on AI integrations, Online IDE, and LMS development  
+- 🌱 I’m currently working on AI integrations, Online IDE, and LMS development
+  
+  <p align="left">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Subscribers">
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/youtube/channel/views/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Views">
+  </p> 
   <p align="left">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Subscribers">
     &nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/youtube/channel/views/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Views">
   </p>
+  
 - ⚡ Fun fact: 
-
 ### 🚀 Social Presence  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ntambara-rukaka-steven)  
 - [![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ntambararukaka)  
@@ -41,8 +46,6 @@
   <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 </p>
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Kumaresan_kp?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/Kumaresan_kp)
 
 ### ⚙️ Tools I Use  
 <p>
@@ -74,14 +77,8 @@
 - **Graphics**: 
 	AMD Radeon RX 6500M  
   ![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6500M-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-  
 
-### 📈 My GitHub Activity  
-[![Ntambara Rukaka Steven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramjan0487&bg_color=150a10&color=ffffff&line=f5f5f5&point=ffffff&area=true&hide_border=true)](https://github.com/Ramjan0487/github-readme-activity-graph)
-
-
-
-<h1 align="center">Hello, This is The Rock IT Solutions LTD</p></h1>
+  <h1 align="center">Hello, This is The Rock IT Solutions LTD</p></h1>
 <p align="center">
  <h2 align="center">Unleashing the Digital Future Technology Today!</h2>
 </p>
@@ -182,3 +179,7 @@ The primary tools in the suite are:
  - Katalon Professional Certification
  - Katalon Expert Certification
  - Power BI Certification
+
+  
+### 📈 My GitHub Activity  
+[![Ntambara Rukaka Steven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramjan0487&bg_color=150a10&color=ffffff&line=f5f5f5&point=ffffff&area=true&hide_border=true)](https://github.com/Ramjan0487/github-readme-activity-graph)
