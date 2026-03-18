@@ -1,28 +1,7 @@
-## Hi there 👋 I'm Ntambara Rukaka Steven  
+## Hi there 👋 I'm Ntambara Rukaka Steven   
 
- <h2 align="center">Unleashing the Digital Future Technology Today!</h2>
-</p>
-  <p align="center">
-<img alt="Tests Passing" src="https://github.com/Ramjan0487/github-readme-stats/workflows/Test/badge.svg" style="max-width: 100%;">
-    </a>
-    <a href="https://github.com/Ramjan0487/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Ramjan0487/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/Ramjan0487/github-readme-stats">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/Ramjan0487/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/Ramjan0487/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/Ramjan0487/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/Ramjan0487/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Ramjan0487/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/Ramjan0487/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/Ramjan0487/github-readme-stats/badge" />
-    </a>
-  </p>
+<img align="right" width="370" height="290" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpqbzVubXQxemMwcWpoaTVpZWdzdXNhNm03d3VqZ2E3bzhleGZtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<img align="right" width="370" height="290" src="C:\Users\PC\Downloads\Coding.gif">
 <!-- - 🔭 
 <h3 align="center">⚡Here are some ideas to get you started:</h3></center>
 
@@ -76,24 +55,55 @@
 
 ### 💻 Workspace Setup
 
-- **Operating System**: Windows 11  
+- **Operating System**: 
+	Windows 11  
   ![OS](https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows&logoColor=white)
 
-- **Operating System**: Windows 10
+- **Operating System**: 
+	Windows 10
   ![OS](https://img.shields.io/badge/OS-Windows_10-blue?style=for-the-badge&logo=windows&logoColor=white)
 
-- **Operating System**: macOS Versions
+- **Operating System**: 
+	macOS Versions
  ![OS](https://img.shields.io/badge/OS-mac-os-blue?style=for-the-badge&logo=windows&logoColor=white)
  
-- **Processor**: AMD Ryzen 5 5600H  
+- **Processor**: 
+	AMD Ryzen 5 5600H  
   ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
-- **Graphics**: AMD Radeon RX 6500M  
+- **Graphics**: 
+	AMD Radeon RX 6500M  
   ![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6500M-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
   
 
 ### 📈 My GitHub Activity  
 [![Ntambara Rukaka Steven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramjan0487&bg_color=150a10&color=ffffff&line=f5f5f5&point=ffffff&area=true&hide_border=true)](https://github.com/Ramjan0487/github-readme-activity-graph)
+
+
+
+<h1 align="center">Hello, This is The Rock IT Solutions LTD</p></h1>
+<p align="center">
+ <h2 align="center">Unleashing the Digital Future Technology Today!</h2>
+</p>
+  <p align="center">
+<img alt="Tests Passing" src="https://github.com/Ramjan0487/github-readme-stats/workflows/Test/badge.svg" style="max-width: 100%;">
+    </a>
+    <a href="https://github.com/Ramjan0487/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Ramjan0487/github-readme-stats" />
+    </a>
+    <a href="https://codecov.io/gh/Ramjan0487/github-readme-stats">
+      <img alt="Tests Coverage" src="https://codecov.io/gh/Ramjan0487/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/Ramjan0487/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/Ramjan0487/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/Ramjan0487/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Ramjan0487/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://securityscorecards.dev/viewer/?uri=github.com/Ramjan0487/github-readme-stats">
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/Ramjan0487/github-readme-stats/badge" />
+    </a>
+  </p>
 
  
 ### 🖥️ I Code In  
