@@ -1,18 +1,47 @@
-## Hi there 👋 I'm Kumaresan  
+## Hi there 👋 I'm Ntambara Rukaka Steven  
 
-Content Creator on "Programming with Kumaresan"🎥  
+<h1 align="center">Hello, This is The Rock IT Solutions LTD</p></h1>
+<p align="center">
+ <h2 align="center">Unleashing the Digital Future Technology Today!</h2>
+</p>
+  <p align="center">
+<img alt="Tests Passing" src="https://github.com/Ramjan0487/github-readme-stats/workflows/Test/badge.svg" style="max-width: 100%;">
+    </a>
+    <a href="https://github.com/Ramjan0487/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Ramjan0487/github-readme-stats" />
+    </a>
+    <a href="https://codecov.io/gh/Ramjan0487/github-readme-stats">
+      <img alt="Tests Coverage" src="https://codecov.io/gh/Ramjan0487/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/Ramjan0487/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/Ramjan0487/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/Ramjan0487/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Ramjan0487/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://securityscorecards.dev/viewer/?uri=github.com/Ramjan0487/github-readme-stats">
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/Ramjan0487/github-readme-stats/badge" />
+    </a>
+  </p>
 
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
+<img align="right" width="370" height="290" src="blob:https://giphy.com/a0b6024a-f792-40a4-8a2a-c496f9a23367.gif">
 
-<!-- - 🔭 Check out my [portfolio](https://kumaresankp.pythonanywhere.com/)-->
+<!-- - 🔭 
+<h3 align="center">⚡Here are some ideas to get you started:</h3></center>
+
+- 🔭 I’m currently working on Google Analytics Data Certification
+- 🌱 I’m currently learning IBM and Google Data Analytics Certification
+- 👯 I’m looking to collaborate on all IT Related Customers
+- 🤔 I’m looking for help with Database, Data Integration
+- 💬 Ask me about Web Analytics and Quality Assurance(Manual and Automation Testing)
+- 📫 How to reach me: E-mail:therockitsolutions20@gmail.com
 - 🌱 I’m currently working on AI integrations, Online IDE, and LMS development  
-- 🎥 I create tech tutorials on [YouTube](https://www.youtube.com/@kumaresankp)  
   <p align="left">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Subscribers">
     &nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/youtube/channel/views/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Views">
   </p>
-- ⚡ Fun fact: I love simplifying complex tech topics on my youtube channel
+- ⚡ Fun fact: 
 
 ### 🚀 Social Presence  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ntambara-rukaka-steven)  
@@ -57,9 +86,8 @@ Content Creator on "Programming with Kumaresan"🎥
   ![OS](https://img.shields.io/badge/OS-Windows_10-blue?style=for-the-badge&logo=windows&logoColor=white)
 
 - **Operating System**: macOS Versions
- ![OS](https://img.shields.io/badge/OS-Windows_10-blue?style=for-the-badge&logo=windows&logoColor=white)
+ ![OS](https://img.shields.io/badge/OS-mac-os-blue?style=for-the-badge&logo=windows&logoColor=white)
  
-
 - **Processor**: AMD Ryzen 5 5600H  
   ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
@@ -68,44 +96,7 @@ Content Creator on "Programming with Kumaresan"🎥
   
 
 ### 📈 My GitHub Activity  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramjan0487&bg_color=150a10&color=ffffff&line=f5f5f5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
-
-
-
-<h1 align="center">Hello, This is The Rock IT Solutions LTD</p></h1>
-<p align="center">
- <h2 align="center">Unleashing the Digital Future Technology Today!</h2>
-</p>
-  <p align="center">
-<img alt="Tests Passing" src="https://github.com/Ramjan0487/github-readme-stats/workflows/Test/badge.svg" style="max-width: 100%;">
-    </a>
-    <a href="https://github.com/Ramjan0487/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Ramjan0487/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/Ramjan0487/github-readme-stats">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/Ramjan0487/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/Ramjan0487/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/Ramjan0487/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/Ramjan0487/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Ramjan0487/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/Ramjan0487/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/Ramjan0487/github-readme-stats/badge" />
-    </a>
-  </p>
- <p align="center">
-<img align="middle" src="https://raw.githubusercontent.com/Ramjan0487/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fundootesters" height="30" width="40" style="max-width: 100%;">
-<img align="middle" src="https://raw.githubusercontent.com/Ramjan0487/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishantgohel" height="30" width="40" style="max-width: 100%;">
-<img align="middle" src="https://raw.githubusercontent.com/Ramjan0487/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fundootesters" height="30" width="40" style="max-width: 100%;">
-<img align="middle" src="https://raw.githubusercontent.com/Ramjan0487/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fundootesters" height="30" width="40" style="max-width: 100%;">
-<img align="middle" src="https://raw.githubusercontent.com/Ramjan0487/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fundootesters" height="30" width="40" style="max-width: 100%;">
- </p>
+[![Ntambara Rukaka Steven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramjan0487&bg_color=150a10&color=ffffff&line=f5f5f5&point=ffffff&area=true&hide_border=true)](https://github.com/Ramjan0487/github-readme-activity-graph)
 
  
 ### 🖥️ I Code In  
@@ -123,15 +114,6 @@ Content Creator on "Programming with Kumaresan"🎥
   <img height="50" src="https://iconscout.com/free-icon/free-mongodb-icon_1175138"/>
 </p>
 
-
-<h3 align="center">⚡Here are some ideas to get you started:</h3></center>
-
-- 🔭 I’m currently working on Google Analytics Data Certification
-- 🌱 I’m currently learning IBM and Google Data Analytics Certification
-- 👯 I’m looking to collaborate on all IT Related Customers
-- 🤔 I’m looking for help with Database, Data Integration
-- 💬 Ask me about Web Analytics and Quality Assurance(Manual and Automation Testing)
-- 📫 How to reach me: E-mail:therockitsolutions20@gmail.com
 
   <h3 align="center">⚡What we Do:</h3></center>
 - Web,Mobile, App Testing using Manual Testing
