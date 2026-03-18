@@ -30,53 +30,6 @@
 - 📫 How to reach me: E-mail:therockitsolutions20@gmail.com
 - 🌱 I’m currently working on AI integrations, Online IDE, and LMS development
 
-   ### 🚀 Social Presence
-  
-  <p align="left">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Subscribers">
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/youtube/channel/views/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Views">
-  </p>
-   
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ntambara-rukaka-steven)  
-- [![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ntambararukaka)  
-- [![Twitter](https://img.shields.io/badge/X%2FTwitter-white?logo=x&style=flat&logoColor=white)](https://x.com/Rickiesteven)  
-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/stevio052002)  
-
-
-### 🖥️ I Code In
-<p>
-  <img height="50" src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-</p>
-
-###  💻 Workspace Setup:
-
-- **Operating System**: Windows 11  
-  ![OS](https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows&logoColor=white)
-- **Processor**: AMD Ryzen 5 5600H  
-  ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-- **Graphics**: AMD Radeon RX 6500M  
-  ![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6500M-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-
- ### ⚙️ Tools I Use
-<p>
-  <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-  <img height="50" src="https://img.icons8.com/color/50/000000/git.png"/>
-  <img height="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/firebase.png"/>
-</p>
-
   ###⚡What we Do:
 - Web,Mobile, App Testing using Manual Testing
 - Test planning
@@ -140,3 +93,51 @@ Tools Like Katalon Testing Tools
 ### 📈 My GitHub Activity
 
 [![Ntambara Rukaka Steven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramjan0487&bg_color=150a10&color=ffffff&line=f5f5f5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ ### Fun fact: I love simplifying complex tech topics on my youtube channel
+
+  <p align="left">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Subscribers">
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/youtube/channel/views/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Views">
+  </p>
+   ### 🚀 Social Presence
+   
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ntambara-rukaka-steven)  
+- [![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ntambararukaka)  
+- [![Twitter](https://img.shields.io/badge/X%2FTwitter-white?logo=x&style=flat&logoColor=white)](https://x.com/Rickiesteven)  
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/stevio052002)  
+
+
+### 🖥️ I Code In
+<p>
+  <img height="50" src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+</p>
+
+###  💻 Workspace Setup:
+
+- **Operating System**: Windows 11  
+  ![OS](https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows&logoColor=white)
+- **Processor**: AMD Ryzen 5 5600H  
+  ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+- **Graphics**: AMD Radeon RX 6500M  
+  ![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6500M-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+
+ ### ⚙️ Tools I Use
+<p>
+  <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+  <img height="50" src="https://img.icons8.com/color/50/000000/git.png"/>
+  <img height="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/firebase.png"/>
+</p>
