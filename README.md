@@ -128,6 +128,8 @@ Tools Like Katalon Testing Tools
 
 - **Operating System**: Windows 11  
   ![OS](https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows&logoColor=white)
+- **Operating System**: Mac OS  
+  ![MacOS](https://img.icons8.com/?size=96&id=vCiwbOh7Uo7G&format=png)
 - **Processor**: AMD Ryzen 5 5600H  
   ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 - **Graphics**: AMD Radeon RX 6500M  
@@ -140,10 +142,11 @@ Tools Like Katalon Testing Tools
   <img height="50" src="https://img.icons8.com/color/50/000000/git.png"/>
   <img height="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/firebase.png"/>
- <img height="50" https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
- <p>
-  <img height="50" src="https://camo.githubusercontent.com/85cfcb5047fc12130ed2834ac42e46948316460e335c59a568207055f74dac1a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f6c6172732d3030373566663f7374796c653d666f722d7468652d6261646765266c6f676f3d706f6c617273266c6f676f436f6c6f723d7768697465.svg">
-<img height="50" src="https://camo.githubusercontent.com/219039d4447950f272d252326184951ed2c77db83af5d9bf19c2ccefe6432c7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465.svg">
- <img height="50" src="https://camo.githubusercontent.com/5d53b004c53c0be8272cfa8033863f1c1c98c2dc1dfe82de1071fcc2a08bc3f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b657261732d2532334430303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4b65726173266c6f676f436f6c6f723d7768697465.svg">
-  <img height="50" src="https://camo.githubusercontent.com/5aa2a14284e322a25bcbcdea857ed77fb46d3ba01ced35d34edf01b8f6d0b77e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d2532336666666666662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6174706c6f746c6962266c6f676f436f6c6f723d626c61636b.svg">
+ <img height="50" src="https://icons8.com/icon/1LAX3PYMg2iA/android-studio--v2.png"/>
+ <img height="50" src="https://icons8.com/icon/fy60fytQrozs/analytics.png"/>
+ <img height="50" src="https://icons8.com/icon/aR9CXyMagKIS/numpy.png"/>
+<img height="50" src="https://icons8.com/icon/TkX1totjFmAD/matplotlib.png"/>
+<img height="50" src="https://icons8.com/icon/45348/selenium-test-automation.png"/>
+<img height="50" src="https://icons8.com/icon/2G0DTGOzcTIP/external-agile-agile-flaticons-flat-flat-icons.png"/>
+ 
 </p>
