@@ -131,7 +131,7 @@ Tools Like Katalon Testing Tools
 - **Operating System**: Windows 11
   ![OS](https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows&logoColor=white)
 - **Operating System**: Mac OS
-  ![MacOS](https://img.icons8.com/?size=96&id=vCiwbOh7Uo7G&format=png)
+  ![MacOS]<img height="50" src="https://img.icons8.com/?size=96&id=vCiwbOh7Uo7G&format=png"/>
 - **Processor**: AMD Ryzen 5 5600H
   ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 - **Graphics**: AMD Radeon RX 6500M
