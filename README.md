@@ -1,6 +1,83 @@
+## Hi there 👋 I'm Kumaresan  
+
+Content Creator on "Programming with Kumaresan"🎥  
+
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
+
+<!-- - 🔭 Check out my [portfolio](https://kumaresankp.pythonanywhere.com/)-->
+- 🌱 I’m currently working on AI integrations, Online IDE, and LMS development  
+- 🎥 I create tech tutorials on [YouTube](https://www.youtube.com/@kumaresankp)  
+  <p align="left">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Subscribers">
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/youtube/channel/views/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Views">
+  </p>
+- ⚡ Fun fact: I love simplifying complex tech topics on my youtube channel
+
+### 🚀 Social Presence  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ntambara-rukaka-steven)  
+- [![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ntambararukaka)  
+- [![Twitter](https://img.shields.io/badge/X%2FTwitter-white?logo=x&style=flat&logoColor=white)](https://x.com/Rickiesteven)  
+
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/stevio052002)  
+
+
+### 🖥️ I Code In  
+<p>
+  <img height="50" src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+</p>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Kumaresan_kp?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/Kumaresan_kp)
+
+### ⚙️ Tools I Use  
+<p>
+  <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+  <img height="50" src="https://img.icons8.com/color/50/000000/git.png"/>
+  <img height="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/firebase.png"/>
+</p>
+
+### 💻 Workspace Setup
+
+- **Operating System**: Windows 11  
+  ![OS](https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows&logoColor=white)
+
+- **Operating System**: Windows 10
+  ![OS](https://img.shields.io/badge/OS-Windows_10-blue?style=for-the-badge&logo=windows&logoColor=white)
+
+- **Operating System**: macOS Versions
+ ![OS](https://img.shields.io/badge/OS-Windows_10-blue?style=for-the-badge&logo=windows&logoColor=white)
+ 
+
+- **Processor**: AMD Ryzen 5 5600H  
+  ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+
+- **Graphics**: AMD Radeon RX 6500M  
+  ![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6500M-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+  
+
+### 📈 My GitHub Activity  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramjan0487&bg_color=150a10&color=ffffff&line=f5f5f5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
+
+
 <h1 align="center">Hello, This is The Rock IT Solutions LTD</p></h1>
 <p align="center">
- <img src="https://camo.githubusercontent.com/09bfe4437e8b6b42ab44be2a46df368a91ce0128d2d76e237637fdafee489a65/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d66756e646f6f746573746572732673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="The Rock IT Solutions LTD" data-canonical-src="https://github-readme-stats.vercel.app/api?username=therockitsolutions&amp;show_icons=true&amp;locale=en" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/f3064ddb6ed730c15096e2281ba56f62fcd1c01edd968fbd988d0c1aba9b34b8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d646f6e75742d766572746963616c" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&amp;layout=donut-vertical" style="max-width: 100%;">
  <h2 align="center">Unleashing the Digital Future Technology Today!</h2>
 </p>
   <p align="center">
@@ -23,11 +100,11 @@
     </a>
   </p>
  <p align="center">
-<img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fundootesters" height="30" width="40" style="max-width: 100%;">
-<img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishantgohel" height="30" width="40" style="max-width: 100%;">
-<img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fundootesters" height="30" width="40" style="max-width: 100%;">
-<img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fundootesters" height="30" width="40" style="max-width: 100%;">
-<img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fundootesters" height="30" width="40" style="max-width: 100%;">
+<img align="middle" src="https://raw.githubusercontent.com/Ramjan0487/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fundootesters" height="30" width="40" style="max-width: 100%;">
+<img align="middle" src="https://raw.githubusercontent.com/Ramjan0487/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishantgohel" height="30" width="40" style="max-width: 100%;">
+<img align="middle" src="https://raw.githubusercontent.com/Ramjan0487/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fundootesters" height="30" width="40" style="max-width: 100%;">
+<img align="middle" src="https://raw.githubusercontent.com/Ramjan0487/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fundootesters" height="30" width="40" style="max-width: 100%;">
+<img align="middle" src="https://raw.githubusercontent.com/Ramjan0487/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fundootesters" height="30" width="40" style="max-width: 100%;">
  </p>
 
  
@@ -69,7 +146,20 @@
 - Defect logging
   
   <h3 align="center">⚡What we Do:</h3></center>
-- Web,Mobile, App Testing using Automation Testing
+Tools Like Katalon Testing Tools
+
+1.Katalon Studio: This is the core testing tool, an all-in-one low-code automation platform for web, API, desktop, and mobile applications. 
+2.Katalon TestOps: This AI-augmented platform provides comprehensive test management and quality intelligence. 
+3.Katalon Runtime Engine (KRE): A command-line execution add-on for executing tests in a CI/CD pipeline or for silent, headless execution.
+
+The Selenium project
+The primary tools in the suite are: 
+
+1.Selenium WebDriver: This provides a programming interface to create robust, browser-based regression automation suites
+2.Selenium IDE: A simple record-and-playback tool, available as an extension for Chrome, Firefox, and Edge browsers. 
+3.Selenium Grid: This tool allows you to scale your automation by distributing and running tests on several different machines
+
+- Web, Mobile, App Testing using Automation Testing
 - Test automation
 - Test automation environment
 - Unit testing
@@ -94,7 +184,7 @@
  - Failure analysis
  - Test Plan Documentation
  - Test Cases Documentation
- - Report the resultsRequirement analysis
+ - Report the results Requirement analysis
   
   <h3 align="center">👋Certifications:</h3></center>
 
@@ -103,4 +193,3 @@
  - Katalon Professional Certification
  - Katalon Expert Certification
  - Power BI Certification
-
