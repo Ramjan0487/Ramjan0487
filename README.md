@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ntambara Rukaka Steven   
+<h2 align="center">## Hi there 👋 I'm Ntambara Rukaka Steven</h2></center>
  <h2 align="center">Unleashing the Digital Future Technology Today!</h2>
 </p>
   <p align="center">
@@ -126,15 +126,15 @@ Tools Like Katalon Testing Tools
 
 ###  💻 Workspace Setup:
 
-- **Operating System**: Windows 10 
+- **Operating System**: Windows 10
   ![OS](https://img.shields.io/badge/OS-Windows_10-blue?style=for-the-badge&logo=windows&logoColor=white)
-- **Operating System**: Windows 11  
+- **Operating System**: Windows 11
   ![OS](https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows&logoColor=white)
-- **Operating System**: Mac OS  
+- **Operating System**: Mac OS
   ![MacOS](https://img.icons8.com/?size=96&id=vCiwbOh7Uo7G&format=png)
-- **Processor**: AMD Ryzen 5 5600H  
+- **Processor**: AMD Ryzen 5 5600H
   ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-- **Graphics**: AMD Radeon RX 6500M  
+- **Graphics**: AMD Radeon RX 6500M
   ![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6500M-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
  ### ⚙️ Tools I Use
@@ -144,5 +144,4 @@ Tools Like Katalon Testing Tools
   <img height="50" src="https://img.icons8.com/color/50/000000/git.png"/>
   <img height="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/firebase.png"/>
- 
 </p>
