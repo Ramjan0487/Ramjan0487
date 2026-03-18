@@ -91,19 +91,6 @@
 - [![Twitter](https://img.shields.io/badge/X%2FTwitter-white?logo=x&style=flat&logoColor=white)](https://x.com/Rickiesteven)  
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/stevio052002)  
 
-###  💻 Workspace Setup:
-
-- **Operating System**: Windows 10
-  ![OS](https://img.shields.io/badge/OS-Windows_10-blue?style=for-the-badge&logo=windows&logoColor=white)
-- **Operating System**: Windows 11
-  ![OS](https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows&logoColor=white)
-- **Operating System**: Mac OS
-  ![MacOS]<img height="30" src="https://img.icons8.com/?size=96&id=vCiwbOh7Uo7G&format=png"/>
-- **Processor**: AMD Ryzen 5 5600H
-  ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-- **Graphics**: AMD Radeon RX 6500M
-  ![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6500M-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-
 ##⚡What we Do:
 Tools Like Katalon Testing Tools
 
@@ -142,4 +129,16 @@ Tools Like Katalon Testing Tools
 - Execute the tests
 - System integration
 - Review and feedback
-  
+
+  ###  💻 Workspace Setup:
+
+- **Operating System**: Windows 10
+  ![OS](https://img.shields.io/badge/OS-Windows_10-blue?style=for-the-badge&logo=windows&logoColor=white)
+- **Operating System**: Windows 11
+  ![OS](https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows&logoColor=white)
+- **Operating System**: Mac OS
+  ![MacOS]<img height="40" src="https://img.icons8.com/?size=96&id=vCiwbOh7Uo7G&format=png"/>
+- **Processor**: AMD Ryzen 5 5600H
+  ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+- **Graphics**: AMD Radeon RX 6500M
+  ![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6500M-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
