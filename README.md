@@ -17,10 +17,8 @@
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Ramjan0487/github-readme-stats?color=0088ff" />
     </a>
   </p>
-  
-<img align="right" width="370" height="290" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpqbzVubXQxemMwcWpoaTVpZWdzdXNhNm03d3VqZ2E3bzhleGZtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-##⚡Here are some ideas to get you started:
+  ##⚡Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Google Analytics Data Certification
 - 🌱 I’m currently learning IBM and Google Data Analytics Certification
@@ -29,6 +27,8 @@
 - 💬 Ask me about Web Analytics and Quality Assurance(Manual and Automation Testing)
 - 📫 How to reach me: E-mail:therockitsolutions20@gmail.com
 - 🌱 I’m currently working on AI integrations, Online IDE, and LMS development
+  
+<img align="right" width="370" height="290" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpqbzVubXQxemMwcWpoaTVpZWdzdXNhNm03d3VqZ2E3bzhleGZtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
   ###⚡What we Do:
 - Web,Mobile, App Testing using Manual Testing
@@ -42,37 +42,20 @@
 - Black box testing
 - Defect logging
   
-##⚡What we Do:
-Tools Like Katalon Testing Tools
-
-1.Katalon Studio: This is the core testing tool, an all-in-one low-code automation platform for web, API, desktop, and mobile applications. 
-2.Katalon TestOps: This AI-augmented platform provides comprehensive test management and quality intelligence. 
-3.Katalon Runtime Engine (KRE): A command-line execution add-on for executing tests in a CI/CD pipeline or for silent, headless execution.
-
-## The Selenium project The primary tools in the suite are: 
-
-1.Selenium WebDriver: This provides a programming interface to create robust, browser-based regression automation suites
-2.Selenium IDE: A simple record-and-playback tool, available as an extension for Chrome, Firefox, and Edge browsers. 
-3.Selenium Grid: This tool allows you to scale your automation by distributing and running tests on several different machines
-
-- Web, Mobile, App Testing using Automation Testing
-- Test automation
-- Test automation environment
-- Unit testing
-- Load testing
-- Test script issues
-- Tool selection
-- Acceptance testing
-- Creating test automation frameworks
-- Error testing
-- Execution plan
-- Software Testing
-- Analyze and report results
-- API testing
-- Employ standardized testing techniques
-- Execute the tests
-- System integration
-- Review and feedback
+### 🖥️ I Code In
+<p>
+  <img height="50" src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+</p>
 
   ###⚡Other Tasks:
           
@@ -108,22 +91,6 @@ Tools Like Katalon Testing Tools
 - [![Twitter](https://img.shields.io/badge/X%2FTwitter-white?logo=x&style=flat&logoColor=white)](https://x.com/Rickiesteven)  
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/stevio052002)  
 
-
-### 🖥️ I Code In
-<p>
-  <img height="50" src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-</p>
-
 ###  💻 Workspace Setup:
 
 - **Operating System**: Windows 10
@@ -131,11 +98,18 @@ Tools Like Katalon Testing Tools
 - **Operating System**: Windows 11
   ![OS](https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows&logoColor=white)
 - **Operating System**: Mac OS
-  ![MacOS]<img height="50" src="https://img.icons8.com/?size=96&id=vCiwbOh7Uo7G&format=png"/>
+  ![MacOS]<img height="30" src="https://img.icons8.com/?size=96&id=vCiwbOh7Uo7G&format=png"/>
 - **Processor**: AMD Ryzen 5 5600H
   ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 - **Graphics**: AMD Radeon RX 6500M
   ![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6500M-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+
+##⚡What we Do:
+Tools Like Katalon Testing Tools
+
+1.Katalon Studio: This is the core testing tool, an all-in-one low-code automation platform for web, API, desktop, and mobile applications. 
+2.Katalon TestOps: This AI-augmented platform provides comprehensive test management and quality intelligence. 
+3.Katalon Runtime Engine (KRE): A command-line execution add-on for executing tests in a CI/CD pipeline or for silent, headless execution.
 
  ### ⚙️ Tools I Use
 <p>
@@ -145,3 +119,27 @@ Tools Like Katalon Testing Tools
   <img height="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/firebase.png"/>
 </p>
+
+## The Selenium project The primary tools in the suite are: 
+
+1.Selenium WebDriver: This provides a programming interface to create robust, browser-based regression automation suites
+2.Selenium IDE: A simple record-and-playback tool, available as an extension for Chrome, Firefox, and Edge browsers. 
+3.Selenium Grid: This tool allows you to scale your automation by distributing and running tests on several different machines
+
+- Web, Mobile, App Testing using Automation Testing
+- Test automation and Tool selection
+- Unit testing
+- Load testing
+- Test script issues
+- Acceptance testing
+- Creating test automation frameworks
+- Error testing
+- Execution plan
+- Software Testing
+- Analyze and report results
+- API testing
+- Employ standardized testing techniques
+- Execute the tests
+- System integration
+- Review and feedback
+  
