@@ -34,14 +34,14 @@
 - 🌱 I’m currently working on AI integrations, Online IDE, and LMS development
   
   <p align="left">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Subscribers">
+    <img src="https://img.shields.io/youtube.com/@ntambararukakasteven775?style=for-the-badge" alt="YouTube Subscribers">
     &nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/youtube/channel/views/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Views">
+    <img src="https://img.shields.io/youtube.com/@ntambararukakasteven775?style=for-the-badge" alt="YouTube Views">
   </p> 
   <p align="left">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Subscribers">
+    <img src="https://img.shields.io/youtube.com/@ntambararukakasteven775?style=for-the-badge" alt="YouTube Subscribers">
     &nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/youtube/channel/views/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Views">
+    <img src="https://img.shields.io/youtube.com/@ntambararukakasteven775?style=for-the-badge" alt="YouTube Views">
   </p>
   
 - ⚡ Fun fact: 
@@ -52,7 +52,7 @@
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/stevio052002)  
 
 
-### 🖥️ I Code In  
+<center>### 🖥️ I Code In</center>
 <p>
   <img height="50" src="https://img.icons8.com/color/48/000000/python.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
@@ -76,7 +76,7 @@
   <img height="50" src="https://img.icons8.com/color/48/000000/firebase.png"/>
 </p>
 
-### <h2 align="center"> 💻 Workspace Setup :</h2></center>
+<center>###  💻 Workspace Setup:</center>
 
 - **Operating System**: Windows 11  
   ![OS](https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows&logoColor=white)
@@ -86,8 +86,8 @@
   ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 - **Graphics**: AMD Radeon RX 6500M  
   ![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6500M-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-
-  <h3 align="center">⚡What we Do:</h3></center>
+  
+  <center>###⚡What we Do:</center>
 - Web,Mobile, App Testing using Manual Testing
 - Test planning
 - Unit testing
@@ -99,15 +99,14 @@
 - Black box testing
 - Defect logging
   
-  <h3 align="center">⚡What we Do:</h3></center>
+  <center>⚡What we Do:</center>
 Tools Like Katalon Testing Tools
 
 1.Katalon Studio: This is the core testing tool, an all-in-one low-code automation platform for web, API, desktop, and mobile applications. 
 2.Katalon TestOps: This AI-augmented platform provides comprehensive test management and quality intelligence. 
 3.Katalon Runtime Engine (KRE): A command-line execution add-on for executing tests in a CI/CD pipeline or for silent, headless execution.
 
-The Selenium project
-The primary tools in the suite are: 
+## The Selenium project The primary tools in the suite are: 
 
 1.Selenium WebDriver: This provides a programming interface to create robust, browser-based regression automation suites
 2.Selenium IDE: A simple record-and-playback tool, available as an extension for Chrome, Firefox, and Edge browsers. 
@@ -132,7 +131,7 @@ The primary tools in the suite are:
 - System integration
 - Review and feedback
 
-  <h3 align="center">⚡Other Tasks:</h3></center>
+  <center>###⚡Other Tasks:</center>
           
  - Risk analysis
  - Failure analysis
@@ -140,7 +139,7 @@ The primary tools in the suite are:
  - Test Cases Documentation
  - Report the results Requirement analysis
   
-  <h3 align="center">👋Certifications:</h3></center>
+  <center>### 👋Certifications:</center>
 
  - Google Analytics Certification
  - Katalon Practitioner Certification
@@ -149,5 +148,5 @@ The primary tools in the suite are:
  - Power BI Certification
 
   
-### 📈 My GitHub Activity  
+<center>### 📈 My GitHub Activity </center>
 [![Ntambara Rukaka Steven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramjan0487&bg_color=150a10&color=ffffff&line=f5f5f5&point=ffffff&area=true&hide_border=true)](https://github.com/Ramjan0487/github-readme-activity-graph)
