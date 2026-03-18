@@ -127,7 +127,8 @@ Tools Like Katalon Testing Tools
 ###  💻 Workspace Setup:
 
 - **Operating System**: Windows 11  
-  ![OS](https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows&logoColor=white)
+  ![OS](https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows&logoColor=white)\
+  https://icons8.com/icon/17842/linux.png)
 - **Operating System**: Mac OS  
   ![MacOS](https://img.icons8.com/?size=96&id=vCiwbOh7Uo7G&format=png)
 - **Processor**: AMD Ryzen 5 5600H  
