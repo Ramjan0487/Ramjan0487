@@ -142,17 +142,8 @@ Tools Like Katalon Testing Tools
   <img height="50" src="https://img.icons8.com/color/48/000000/firebase.png"/>
  <img height="50" https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
  <p>
-- ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-- ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-- ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-- ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-- ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-- ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
- </p>
+  <img height="50" src="https://camo.githubusercontent.com/85cfcb5047fc12130ed2834ac42e46948316460e335c59a568207055f74dac1a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f6c6172732d3030373566663f7374796c653d666f722d7468652d6261646765266c6f676f3d706f6c617273266c6f676f436f6c6f723d7768697465.png">
+<img height="50" src="https://camo.githubusercontent.com/219039d4447950f272d252326184951ed2c77db83af5d9bf19c2ccefe6432c7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465.png">
+ <img height="50" src="https://camo.githubusercontent.com/5d53b004c53c0be8272cfa8033863f1c1c98c2dc1dfe82de1071fcc2a08bc3f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b657261732d2532334430303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4b65726173266c6f676f436f6c6f723d7768697465.png">
+  <img height="50" src="https://camo.githubusercontent.com/5aa2a14284e322a25bcbcdea857ed77fb46d3ba01ced35d34edf01b8f6d0b77e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d2532336666666666662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6174706c6f746c6962266c6f676f436f6c6f723d626c61636b.png">
 </p>
