@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Ntambara Rukaka Steven  
 
-<h1 align="center">Hello, This is The Rock IT Solutions LTD</p></h1>
-<p align="center">
  <h2 align="center">Unleashing the Digital Future Technology Today!</h2>
 </p>
   <p align="center">
@@ -23,8 +21,6 @@
       <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/Ramjan0487/github-readme-stats/badge" />
     </a>
   </p>
-
-src="blob:https://giphy.com/a0b6024a-f792-40a4-8a2a-c496f9a23367.gif">
 
 <img align="right" width="370" height="290" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpqbzVubXQxemMwcWpoaTVpZWdzdXNhNm03d3VqZ2E3bzhleGZtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif ">
 <!-- - 🔭 
