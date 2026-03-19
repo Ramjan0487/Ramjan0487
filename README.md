@@ -57,7 +57,7 @@
   <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img height="50" src="https://img.icons8.com/?size=96&id=TkX1totjFmAD&format=png"/>
   <img height="50" src="https://img.icons8.com/?size=96&id=aR9CXyMagKIS&format=png"/>
-  <img height="50" src="https://icons8.com/icon/qYfwpsRXEcpc/power-bi.png"/>
+  <img height="50" src="https://img.icons8.com/?size=96&id=qYfwpsRXEcpc&format=png"/>
  
 </p>
 
