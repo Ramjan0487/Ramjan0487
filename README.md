@@ -55,8 +55,8 @@
   <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img height="50" src="https://icons8.com/icon/TkX1totjFmAD/matplotlib.png"/>
-  <img height="50" src="https://icons8.com/icon/aR9CXyMagKIS/numpy.png"/>
+  <img height="50" src="https://img.icons8.com/?size=96&id=TkX1totjFmAD&format=png"/>
+  <img height="50" src="https://img.icons8.com/?size=96&id=aR9CXyMagKIS&format=png"/>
   <img height="50" src="https://icons8.com/icon/qYfwpsRXEcpc/power-bi.png"/>
  
 </p>
@@ -143,7 +143,7 @@ Tools Like Katalon Testing Tools
 - **Operating System**: Mac OS
   ![MacOS]<img height="40" src="https://img.icons8.com/?size=96&id=vCiwbOh7Uo7G&format=png"/>
 - **Operating System**: Linux
-  ![Linux]<img height="50" src="https://icons8.com/icon/17842/linux.png"/>
+  ![Linux]<img height="50" src="https://img.icons8.com/?size=96&id=17842&format=png"/>
 - **Processor**: AMD Ryzen 5 5600H
   ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 - **Graphics**: AMD Radeon RX 6500M
